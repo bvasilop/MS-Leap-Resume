@@ -1,10 +1,10 @@
 ># Bill Vasilopoulos
 >## Web Developer UI/UX
 >### 773.571.3820
->#### <bvasilop@gmail.com>
->#### <http://billvas.com/>
->#### <https://github.com/bvasilop>
->#### <https://www.linkedin.com/in/bill-vasilopoulos/>
+>##### <bvasilop@gmail.com>
+>##### <http://billvas.com/>
+>##### <https://github.com/bvasilop>
+>##### <https://www.linkedin.com/in/bill-vasilopoulos/>`
 >
 ---
 >#### -Versatile, resourceful and diligent web developer looking to join a creative team in the Seattle area.
@@ -20,7 +20,7 @@
 >## Mobile Web Developer UI/UX
 >### Seattle, WA  Jan-Aug 2018
 
->#### Grow with Google / Udacity Web Application Developer   https://github.com/bvasilop/mws-restaurant-stage-3-final
+>#### Grow with Google / Udacity Web Application Developer   <https://github.com/bvasilop/mws-restaurant-stage-3-final>
 >•	Designed and implemented all UI components as well as offline capabilities for website.
 >
 >•	Google / Udacity Mobile Web developer for Restaurant Reviews Application.
@@ -39,7 +39,7 @@ ___
 
 >## Freelance Web Developer UI/UX
 >### Seattle, WA  11/2017 – 08/2018
->#### Ilios Garden Supply Company http://iliosgarden.org/
+>#### Ilios Garden Supply Company <http://iliosgarden.org/>
 >
 >•	Designed and Implemented all UI components for e-commerce website.
 >
@@ -55,7 +55,7 @@ ___
 ___
 >## Front-End Web Developer
 >### Seattle, WA  Jan 2017–Dec 2017
->#### Seattle University Web Development Program https://billvas-webdev.github.io/vue-news-pwa/ - /
+>#### Seattle University Web Development Program <https://billvas-webdev.github.io/vue-news-pwa/ - />
 >
 >•	Designed and Implemented all UI components for website.
 >•	Mobile-first progressive web application that utilizes VueJS, Axios API, OpenWeatherMap API, AJAX, Webpack and  Vue CLI.
@@ -77,7 +77,7 @@ ___
 > ### Grow with Google Challenge Scholarship Recipient
 > #### Udacity/Google Mobile Web Specialist Scholarship
 > ### Grow with Google Developer Scholarship Nanodegree
-> #### Udacity/Google Mobile Web Specialist Scholarship
+> #### Udacity / Google Mobile Web Specialist Scholarship
 >
 > ---
 > ## Relevant Coursework
