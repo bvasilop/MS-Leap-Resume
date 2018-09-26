@@ -1,10 +1,10 @@
 ># Bill Vasilopoulos
 >## Web Developer UI/UX
 >### 773.571.3820
->##### <bvasilop@gmail.com>
->##### <http://billvas.com/>
->##### <https://github.com/bvasilop>
->##### <https://www.linkedin.com/in/bill-vasilopoulos/>`
+>#### <bvasilop@gmail.com>
+>#### <http://billvas.com/>
+>#### <https://github.com/bvasilop>
+>#### <https://www.linkedin.com/in/bill-vasilopoulos/>
 >
 ---
 >#### -Versatile, resourceful and diligent web developer looking to join a creative team in the Seattle area.
