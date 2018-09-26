@@ -2,7 +2,7 @@
 >## Web Developer UI/UX
 >### 773.571.3820
 >#### bvasilop@gmail.com
->#### billvas.com
+>#### http://billvas.com/
 >#### https://github.com/bvasilop
 >#### https://www.linkedin.com/in/bill-vasilopoulos/
 >
@@ -98,6 +98,4 @@ ___
 `•	Service Workers and precaching`
 `•	Offline-first ready applications`
 `•	Progressive Web Applications`
-
-
-
+---
