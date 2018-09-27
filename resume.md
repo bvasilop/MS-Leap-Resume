@@ -1,16 +1,10 @@
-># Bill Vasilopoulos
->## Web Developer UI/UX
->### 773.571.3820
-
->
->#### <bvasilop@gmail.com>
->
-
->#### <http://billvas.com/>
-
->#### <https://github.com/bvasilop>
-
->#### <https://www.linkedin.com/in/bill-vasilopoulos/>
+# Bill Vasilopoulos
+## Web Developer UI/UX
+### 773.571.3820
+#### Email: <bvasilop@gmail.com>
+#### Portfolio Site: <http://billvas.com/>
+#### Github: <https://github.com/bvasilop>
+#### LinkedIn: <https://www.linkedin.com/in/bill-vasilopoulos/>
 >
 ---
 >#### -Versatile, resourceful and diligent web developer looking to join a creative team in the Seattle area.
@@ -21,11 +15,12 @@
 >
 >#### -Keen understanding of how to create easy-to-use, cutting edge websites and web applications utilizing HTML, CSS, JSON, AJAX, JavaScript, NPM, Node JS, Webpack and JavaScript Frameworks/Libraries.
 ---
-># Experience
+# Experience
+
 >
->## Mobile Web Developer UI/UX
->### Seattle, WA  Jan-Aug 2018
->
+## Mobile Web Developer UI/UX
+### Seattle, WA  Jan-Aug 2018
+
 >#### Grow with Google / Udacity Web Application Developer   <https://github.com/bvasilop/mws-restaurant-stage-3-final>
 >•	Designed and implemented all UI components as well as offline capabilities for website.
 >
@@ -73,10 +68,10 @@ ___
 >
 >•	Integrated Fetch API for accessing and implementing data from NewsAPI.org.
 ---
-> ## SKILLS
+ ## SKILLS
 > `HTML5` `•--•` `CSS3` `•--•` `AJAX` `•--•` `GIT & GitHub` `•--•` `API Usage` `•--•` `JavaScript` `•--•` `DOM Traversal` `•--•` `JSON` `•--•` `Vue JS` `•--•` `Angular JS` `•--•` `Gulp and Grunt` `•--•` `Progressive Web Applications` `•--•` `Chrome and Firefox Dev Tools` `•--•` `Responsive and Adaptive Design` `•--•` `User Science Testing and Accessibility`
 ---
-> ## Education
+ ## Education
 > ### Bachelor of Arts Telecommunications
 > #### Indiana University, Bloomington, IN
 > ### Web Development Graduate Certificate
@@ -87,7 +82,7 @@ ___
 > #### Udacity / Google Mobile Web Specialist Scholarship
 >
 > ---
-> ## Relevant Coursework
+ ## Relevant Coursework
 > `Unix Command Line Utilities` `•--•`
 `SSH “Secure Shell” remote server systems` `•--•`
 `Apache and LAMP stack configurations` `•--•`
