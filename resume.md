@@ -61,6 +61,7 @@ ___
 #### Seattle University Web Development Program <https://billvas-webdev.github.io/vue-news-pwa/>
 
 •	Designed and Implemented all UI components for website.
+
 •	Mobile-first progressive web application that utilizes VueJS, Axios API, OpenWeatherMap API, AJAX, Webpack and  Vue CLI.
 
 •	Mobile first responsive and adaptive design for all screen sizes.
