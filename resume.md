@@ -1,9 +1,15 @@
 ># Bill Vasilopoulos
 >## Web Developer UI/UX
 >### 773.571.3820
+
+>
 >#### <bvasilop@gmail.com>
+>
+
 >#### <http://billvas.com/>
+
 >#### <https://github.com/bvasilop>
+
 >#### <https://www.linkedin.com/in/bill-vasilopoulos/>
 >
 ---
@@ -16,10 +22,10 @@
 >#### -Keen understanding of how to create easy-to-use, cutting edge websites and web applications utilizing HTML, CSS, JSON, AJAX, JavaScript, NPM, Node JS, Webpack and JavaScript Frameworks/Libraries.
 ---
 ># Experience
-
+>
 >## Mobile Web Developer UI/UX
 >### Seattle, WA  Jan-Aug 2018
-
+>
 >#### Grow with Google / Udacity Web Application Developer   <https://github.com/bvasilop/mws-restaurant-stage-3-final>
 >•	Designed and implemented all UI components as well as offline capabilities for website.
 >
@@ -27,14 +33,15 @@
 >
 >•	Created dynamic Progressive Web Applications for seamless offline experiences.
 >
->•	Offline caching utilizing Javascript agents such as Serviceworkers as well as IndexedDB and Localstorage.
->•	Google Chrome Devtools Lighthouse Audits proficiency for optimizing performance, progressive web app rendering and accessibility standards. Achieved 100% Lighthouse audit scores for performance, accessibility and progressive web application.
+>•	Utilized offline caching and Javascript agents such as Serviceworkers as well as IndexedDB and Localstorage.
+>
+>•	Google Chrome Devtools Lighthouse Audits proficiency for optimized performance, progressive web app rendering and accessibility standards. Achieved 100% Lighthouse audit scores for performance, accessibility and progressive web application.
 >
 >•	Mobile first responsive and adaptive design for all screen sizes.
 >
 >•	JavaScript, AJAX, JSON, HTML, CSS, Gulp, DOM traversal, UI design and implementation.
 >
->•	Implementation of local development server for updating and extracting asynchronous data.
+>•	Implemented local development servers for updating and extracting asynchronous data.
 ___
 
 >## Freelance Web Developer UI/UX
@@ -43,28 +50,28 @@ ___
 >
 >•	Designed and Implemented all UI components for e-commerce website.
 >
->•	Working with multiple clients on website creation.
+>•	Worked with multiple clients on website creation.
 >
->•	Experience with debugging and improving website’s load times and accessibility.
-
+>•	Experienced with debugging and improved website load times and accessibility.
+>
 >•	Website increased client’s brand recognition and company was acquired within 6 months by one of the largest national distribution chains in U.S. (GrowGeneration Corp).
-
+>
 >•	Keen understanding of how to create easy-to-use, cutting edge websites and web applications utilizing HTML5, CSS3, CSS Grid System, Bootstrap, JavaScript, JQuery, NPM, Node JS, Webpack and JavaScript Frameworks/Libraries.
 >
 >•	Dedicated to utilizing best practices and web standards in order to support all users, including those with special needs.
 ___
 >## Front-End Web Developer
 >### Seattle, WA  Jan 2017–Dec 2017
->#### Seattle University Web Development Program <https://billvas-webdev.github.io/vue-news-pwa/ - />
+>#### Seattle University Web Development Program <https://billvas-webdev.github.io/vue-news-pwa/>
 >
 >•	Designed and Implemented all UI components for website.
 >•	Mobile-first progressive web application that utilizes VueJS, Axios API, OpenWeatherMap API, AJAX, Webpack and  Vue CLI.
 >
 >•	Mobile first responsive and adaptive design for all screen sizes.
 >
->•	Offline caching utilizing JavaScript agents such as Serviceworkers as well as IndexedDB and Localstorage.
+>•	Utilized offline caching and JavaScript agents such as Serviceworkers as well as IndexedDB and Localstorage.
 >
->•	Fetch API for accessing and implementing data from NewsAPI.org.
+>•	Integrated Fetch API for accessing and implementing data from NewsAPI.org.
 ---
 > ## SKILLS
 > `HTML5` `•--•` `CSS3` `•--•` `AJAX` `•--•` `GIT & GitHub` `•--•` `API Usage` `•--•` `JavaScript` `•--•` `DOM Traversal` `•--•` `JSON` `•--•` `Vue JS` `•--•` `Angular JS` `•--•` `Gulp and Grunt` `•--•` `Progressive Web Applications` `•--•` `Chrome and Firefox Dev Tools` `•--•` `Responsive and Adaptive Design` `•--•` `User Science Testing and Accessibility`
