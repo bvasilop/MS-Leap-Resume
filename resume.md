@@ -25,9 +25,7 @@
 #### Grow with Google / Udacity Web Application Developer <https://github.com/bvasilop/mws-restaurant-stage-3-final>
 •	Designed and implemented all UI components as well as offline capabilities for website.
 
-•	Google / Udacity Mobile Web developer for Restaurant Reviews Application.
-
-•	Created dynamic Progressive Web Applications for seamless offline experiences.
+•	Created dynamic Progressive Web Application for Restaurant Reviews that allows for seamless offline mobile experiences.
 
 •	Used offline caching and Javascript agents such as Serviceworkers as well as IndexedDB and Localstorage.
 
