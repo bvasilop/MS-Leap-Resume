@@ -1,10 +1,11 @@
 # Bill Vasilopoulos
 ## Web Developer UI/UX
 ### 773.571.3820
-#### Email: <bvasilop@gmail.com
-#### Portfolio Site: <http://billvas.com/
-#### Github: <https://github.com/bvasilop
-#### LinkedIn: <https://www.linkedin.com/in/bill-vasilopoulos/
+
+#### Email: <bvasilop@gmail.com>
+#### Portfolio Site: <http://billvas.com/>
+#### Github: <https://github.com/bvasilop>
+#### LinkedIn: <https://www.linkedin.com/in/bill-vasilopoulos/>
 
 ---
 #### -Versatile, resourceful and diligent web developer looking to join a creative team in the Seattle area.
@@ -21,7 +22,7 @@
 ## Mobile Web Developer UI/UX
 ### Seattle, WA  Jan-Aug 2018
 
-#### Grow with Google / Udacity Web Application Developer   <https://github.com/bvasilop/mws-restaurant-stage-3-final
+#### Grow with Google / Udacity Web Application Developer <https://github.com/bvasilop/mws-restaurant-stage-3-final>
 •	Designed and implemented all UI components as well as offline capabilities for website.
 
 •	Google / Udacity Mobile Web developer for Restaurant Reviews Application.
@@ -41,7 +42,7 @@ ___
 
 ## Freelance Web Developer UI/UX
 ### Seattle, WA  11/2017 – 08/2018
-#### Ilios Garden Supply Company <http://iliosgarden.org/
+#### Ilios Garden Supply Company <http://iliosgarden.org/>
 
 •	Designed and Implemented all UI components for e-commerce website.
 
@@ -57,7 +58,7 @@ ___
 ___
 ## Front-End Web Developer
 ### Seattle, WA  Jan 2017–Dec 2017
-#### Seattle University Web Development Program <https://billvas-webdev.github.io/vue-news-pwa/
+#### Seattle University Web Development Program <https://billvas-webdev.github.io/vue-news-pwa/>
 
 •	Designed and Implemented all UI components for website.
 •	Mobile-first progressive web application that utilizes VueJS, Axios API, OpenWeatherMap API, AJAX, Webpack and  Vue CLI.
@@ -67,37 +68,22 @@ ___
 •	Utilized offline caching and JavaScript agents such as Serviceworkers as well as IndexedDB and Localstorage.
 
 •	Integrated Fetch API for accessing and implementing data from NewsAPI.org.
+
 ---
- ## SKILLS
- `HTML5` `•--•` `CSS3` `•--•` `AJAX` `•--•` `GIT & GitHub` `•--•` `API Usage` `•--•` `JavaScript` `•--•` `DOM Traversal` `•--•` `JSON` `•--•` `Vue JS` `•--•` `Angular JS` `•--•` `Gulp and Grunt` `•--•` `Progressive Web Applications` `•--•` `Chrome and Firefox Dev Tools` `•--•` `Responsive and Adaptive Design` `•--•` `User Science Testing and Accessibility`
+## SKILLS
+### `HTML5` `•--•` `CSS3` `•--•` `AJAX` `•--•` `GIT & GitHub` `•--•` `API Usage` `•--•` `JavaScript` `•--•` `DOM Traversal` `•--•` `JSON` `•--•` `Vue JS` `•--•` `Angular JS` `•--•` `Gulp and Grunt` `•--•` `Progressive Web Applications` `•--•` `Chrome and Firefox Dev Tools` `•--•` `Responsive and Adaptive Design` `•--•` `User Science Testing and Accessibility`
 ---
- ## Education
- ### Bachelor of Arts Telecommunications
- #### Indiana University, Bloomington, IN
- ### Web Development Graduate Certificate
- #### Seattle University, Seattle, WA
- ### Grow with Google Challenge Scholarship Recipient
- #### Udacity/Google Mobile Web Specialist Scholarship
- ### Grow with Google Developer Scholarship Nanodegree
- #### Udacity / Google Mobile Web Specialist Scholarship
+## Education
+### Bachelor of Arts Telecommunications
+**Indiana University, Bloomington, IN**
+### Web Development Graduate Certificate
+**Seattle University, Seattle, WA**
+### Grow with Google Challenge Scholarship Recipient
+**Udacity/Google Mobile Web Specialist Scholarship**
+### Grow with Google Developer Scholarship Nanodegree
+**Udacity / Google Mobile Web Specialist Scholarship**
 
  ---
  ## Relevant Coursework
- `Unix Command Line Utilities` `•--•`
-`SSH “Secure Shell” remote server systems` `•--•`
-`Apache and LAMP stack configurations` `•--•`
-`Digital Ocean web server infrastructure` `•--•`
-`MySQL relational database management systems` `•--•`
-`Indexing and caching utilizing Local Storage and IndexedDB` `•--•`
-`Web Servers and Hosting` `•--•`
-`Software Development Life Cycle` `•--•`
-`User Science Testing , Accessibility and Analysis` `•--•`
-`JavaScript ES5 and ES6 Programming` `•--•`
-`JavaScript Libraries and Frameworks(JQuery, Vue  JS, Angular JS)` `•--•`
-`Github workflow` `•--•`
-`Agile` `•--•`
-`Mobile Web Development` `•--•`
-`Service Workers and precaching` `•--•`
-`Offline-first ready applications` `•--•`
-`Progressive Web Applications`
+### `Unix Command Line Utilities` `•--•` `SSH “Secure Shell” remote server systems` `•--•` `Apache and LAMP stack configurations` `•--•` `Digital Ocean web server infrastructure` `•--•` `MySQL relational database management systems` `•--•` `Indexing and caching utilizing Local Storage and IndexedDB` `•--•` `Web Servers and Hosting` `•--•` `Software Development Life Cycle` `•--•` `User Science Testing , Accessibility and Analysis` `•--•` `JavaScript ES5 and ES6 Programming` `•--•` `JavaScript Libraries and Frameworks(JQuery, Vue  JS, Angular JS)` `•--•` `Github workflow` `•--•` `Agile` `•--•` `Mobile Web Development` `•--•` `Service Workers and precaching` `•--•` `Offline-first ready applications` `•--•` `Progressive Web Applications`
 ---
