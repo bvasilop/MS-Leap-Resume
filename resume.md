@@ -72,7 +72,7 @@ ___
 
 ---
 ## SKILLS
-### `HTML5` `•--•` `CSS3` `•--•` `AJAX` `•--•` `GIT & GitHub` `•--•` `API Usage` `•--•` `JavaScript` `•--•` `DOM Traversal` `•--•` `JSON` `•--•` `Vue JS` `•--•` `Angular JS` `•--•` `Gulp and Grunt` `•--•` `Progressive Web Applications` `•--•` `Chrome and Firefox Dev Tools` `•--•` `Responsive and Adaptive Design` `•--•` `User Science Testing and Accessibility`
+#### `HTML5` `•--•` `CSS3` `•--•` `AJAX` `•--•` `GIT & GitHub` `•--•` `API Usage` `•--•` `JavaScript` `•--•` `DOM Traversal` `•--•` `JSON` `•--•` `Vue JS` `•--•` `Angular JS` `•--•` `Gulp and Grunt` `•--•` `Progressive Web Applications` `•--•` `Chrome and Firefox Dev Tools` `•--•` `Responsive and Adaptive Design` `•--•` `User Science Testing and Accessibility`
 ---
 ## Education
 ### Bachelor of Arts Telecommunications
@@ -86,5 +86,5 @@ ___
 
  ---
  ## Relevant Coursework
-### `Unix Command Line Utilities` `•--•` `SSH “Secure Shell” remote server systems` `•--•` `Apache and LAMP stack configurations` `•--•` `Digital Ocean web server infrastructure` `•--•` `MySQL relational database management systems` `•--•` `Indexing and caching utilizing Local Storage and IndexedDB` `•--•` `Web Servers and Hosting` `•--•` `Software Development Life Cycle` `•--•` `User Science Testing , Accessibility and Analysis` `•--•` `JavaScript ES5 and ES6 Programming` `•--•` `JavaScript Libraries and Frameworks(JQuery, Vue  JS, Angular JS)` `•--•` `Github workflow` `•--•` `Agile` `•--•` `Mobile Web Development` `•--•` `Service Workers and precaching` `•--•` `Offline-first ready applications` `•--•` `Progressive Web Applications`
+#### `Unix Command Line Utilities` `•--•` `SSH “Secure Shell” remote server systems` `•--•` `Apache and LAMP stack configurations` `•--•` `Digital Ocean web server infrastructure` `•--•` `MySQL relational database management systems` `•--•` `Indexing and caching utilizing Local Storage and IndexedDB` `•--•` `Web Servers and Hosting` `•--•` `Software Development Life Cycle` `•--•` `User Science Testing , Accessibility and Analysis` `•--•` `JavaScript ES5 and ES6 Programming` `•--•` `JavaScript Libraries and Frameworks(JQuery, Vue  JS, Angular JS)` `•--•` `Github workflow` `•--•` `Agile` `•--•` `Mobile Web Development` `•--•` `Service Workers and precaching` `•--•` `Offline-first ready applications` `•--•` `Progressive Web Applications`
 ---
