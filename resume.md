@@ -8,13 +8,13 @@
 #### LinkedIn: <https://www.linkedin.com/in/bill-vasilopoulos/>
 
 ##
-#### -Versatile, resourceful and diligent web developer looking to join a creative team in the Seattle area.
+#### •	Versatile, resourceful and diligent web developer looking to join a creative team in the Seattle area.
 
-#### -Persistent troubleshooter dedicated to creating, deploying, and debugging engaging and seamlessly functional web applications, with an eagerness to enhance skills and learn new technologies.
+#### •	Persistent troubleshooter dedicated to creating, deploying, and debugging engaging and seamlessly functional web applications, with an eagerness to enhance skills and learn new technologies.
 
-#### -Refined relationship-building skills and experience working collaboratively with team members on joint projects.
+#### •	Refined relationship-building skills and experience working collaboratively with team members on joint projects.
 
-#### -Keen understanding of how to create easy-to-use, cutting edge websites and web applications utilizing HTML, CSS, JSON, AJAX, JavaScript, NPM, Node JS, Webpack and JavaScript Frameworks/Libraries.
+#### •	Keen understanding of how to create easy-to-use, cutting edge websites and web applications utilizing HTML, CSS, JSON, AJAX, JavaScript, NPM, Node JS, Webpack and JavaScript Frameworks/Libraries.
 ##
 # Experience
 
@@ -39,7 +39,7 @@
 ##
 
 ## Freelance Web Developer UI/UX
-### Seattle, WA  11/2017 – 08/2018
+### Seattle, WA  Nov 2017 – Aug 2018
 #### Ilios Garden Supply Company <http://iliosgarden.org/>
 
 •	Designed and implemented all UI components for e-commerce website.
@@ -48,15 +48,15 @@
 
 •	Experienced with debugging and improved website load times and accessibility.
 
-•	Website increased client’s brand recognition and company was acquired within 6 months by one of the largest national distribution chains in U.S. (GrowGeneration Corp).
-
 •	Created easy-to-use, cutting edge websites and web applications utilizing HTML5, CSS3, CSS Grid System, Bootstrap, JavaScript, JQuery, NPM, Node JS, Webpack and JavaScript Frameworks/Libraries.
+
+•	Website increased client’s revenue and brand recognition. Company was recently acquired by one of the largest national distribution chains in U.S.
 
 •	Dedicated to utilizing best practices and web standards in order to support all users, including those with special needs.
 ##
 ## Front-End Web Developer
-### Seattle, WA  Jan 2017–Dec 2017
-#### Seattle University Web Development Program <https://billvas-webdev.github.io/vue-news-pwa/>
+### Seattle, WA  Jan 2017 – Dec 2017
+#### Seattle University Web Development Graduate Certificate Program <https://billvas-webdev.github.io/vue-news-pwa/>
 
 •	Designed and implemented all UI components for website.
 
@@ -75,15 +75,15 @@
 ##
 ## Education
 ### Bachelor of Arts Telecommunications
-**Indiana University, Bloomington, IN**
+•	**Indiana University, Bloomington, IN**
 ### Web Development Graduate Certificate
-**Seattle University, Seattle, WA**
+•	**Seattle University, Seattle, WA**
 ### Grow with Google Challenge Scholarship Recipient
-**Udacity/Google Mobile Web Specialist Scholarship**
+•	**Udacity/Google Mobile Web Specialist Scholarship**
 ### Grow with Google Developer Scholarship Nanodegree
-**Udacity / Google Mobile Web Specialist Scholarship**
+•	**Udacity / Google Mobile Web Specialist Scholarship**
 
 ##
 ## Relevant Coursework
-#### `Unix Command Line Utilities` `•--•` `SSH “Secure Shell” remote server systems` `•--•` `Apache and LAMP stack configurations` `•--•` `Digital Ocean web server infrastructure` `•--•` `MySQL relational database management systems` `•--•` `Indexing and caching utilizing Local Storage and IndexedDB` `•--•` `Web Servers and Hosting` `•--•` `Software Development Life Cycle` `•--•` `User Science Testing , Accessibility and Analysis` `•--•` `JavaScript ES5 and ES6 Programming` `•--•` `JavaScript Libraries and Frameworks(JQuery, Vue  JS, Angular JS)` `•--•` `Github workflow` `•--•` `Agile` `•--•` `Mobile Web Development` `•--•` `Service Workers and precaching` `•--•` `Offline-first ready applications` `•--•` `Progressive Web Applications`
+#### `Unix Command Line Utilities` `•--•` `SSH “Secure Shell” remote server systems` `•--•` `Apache and LAMP stack configurations` `•--•` `Digital Ocean web server infrastructure` `•--•` `MySQL relational database management systems` `•--•` `Indexing and caching utilizing Local Storage and IndexedDB` `•--•` `Web Servers and Hosting` `•--•` `Software Development Life Cycle` `•--•` `User Science Testing , Accessibility and Analysis` `•--•` `JavaScript ES5 and ES6 Programming` `•--•` `OOP Programming` `•--•` `JavaScript Libraries and Frameworks(JQuery, Vue  JS, Angular JS)` `•--•` `Github workflow` `•--•` `Agile` `•--•` `Mobile Web Development` `•--•` `Service Workers and precaching` `•--•` `Offline-first ready applications` `•--•` `Progressive Web Applications`
 ##
