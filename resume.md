@@ -31,7 +31,7 @@
 
 •	Utilized offline caching and Javascript agents such as Serviceworkers as well as IndexedDB and Localstorage.
 
-•	Google Chrome Devtools Lighthouse Audits proficiency for optimized performance, progressive web app rendering and accessibility standards. Achieved 100% Lighthouse audit scores for performance, accessibility and progressive web application.
+•	Incorporated Google Chrome Devtools Lighthouse Audits proficiency for optimized performance, progressive web app rendering and accessibility standards. Achieved 100% Lighthouse audit scores for performance, accessibility and progressive web application.
 
 •	Mobile first responsive and adaptive design for all screen sizes.
 
@@ -44,7 +44,7 @@ ___
 ### Seattle, WA  11/2017 – 08/2018
 #### Ilios Garden Supply Company <http://iliosgarden.org/>
 
-•	Designed and Implemented all UI components for e-commerce website.
+•	Designed and implemented all UI components for e-commerce website.
 
 •	Worked with multiple clients on website creation.
 
@@ -52,7 +52,7 @@ ___
 
 •	Website increased client’s brand recognition and company was acquired within 6 months by one of the largest national distribution chains in U.S. (GrowGeneration Corp).
 
-•	Keen understanding of how to create easy-to-use, cutting edge websites and web applications utilizing HTML5, CSS3, CSS Grid System, Bootstrap, JavaScript, JQuery, NPM, Node JS, Webpack and JavaScript Frameworks/Libraries.
+•	Created easy-to-use, cutting edge websites and web applications utilizing HTML5, CSS3, CSS Grid System, Bootstrap, JavaScript, JQuery, NPM, Node JS, Webpack and JavaScript Frameworks/Libraries.
 
 •	Dedicated to utilizing best practices and web standards in order to support all users, including those with special needs.
 ___
@@ -60,15 +60,15 @@ ___
 ### Seattle, WA  Jan 2017–Dec 2017
 #### Seattle University Web Development Program <https://billvas-webdev.github.io/vue-news-pwa/>
 
-•	Designed and Implemented all UI components for website.
+•	Designed and implemented all UI components for website.
 
-•	Mobile-first progressive web application that utilizes VueJS, Axios API, OpenWeatherMap API, AJAX, Webpack and  Vue CLI.
+•	Created a mobile-first progressive web application that utilizes VueJS, Axios API, OpenWeatherMap API, AJAX, Webpack and  Vue CLI.
 
-•	Mobile first responsive and adaptive design for all screen sizes.
+•	Utilized responsive and adaptive design for all screen sizes.
 
-•	Utilized offline caching and JavaScript agents such as Serviceworkers as well as IndexedDB and Localstorage.
+•	Integrated offline caching and JavaScript agents such as Serviceworkers as well as IndexedDB and Localstorage.
 
-•	Integrated Fetch API for accessing and implementing data from NewsAPI.org.
+•	Used Fetch API for accessing and implementing data from NewsAPI.org.
 
 ---
 ## SKILLS
